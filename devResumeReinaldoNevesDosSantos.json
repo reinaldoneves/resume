@@ -35,95 +35,103 @@
       "year of conclusion": "2021"
     }
   },
-   "about me": [
-    "I like to read and write codes. Sometimes they are musical codes and sometimes computer codes.",
+  "about me": ["I like to read and write codes. Sometimes they are musical codes and sometimes computer codes.",
     "I'm still trying to figure out wich one i like the most.",
     "I have experience in web development, Java and C# technologies and as a teacher as well.",
-    "I have experience by working in large projects at gas and energy industry for CSC clients, now DXC, and more recently in financial solutions projects at Accurate software.",
-    "With a degree in Systems Analysis from Fatec(2016), and a degree in Music from the State University of Londrina (2021),",
-    "I believe that it is through collaborative technologies that society can develop in order to optimize processes and develop new solutions, in a holistic way, socially engaged and aligned with sustainable development.",
-    "I have experience in Java, Spring Framework, Maven, MVC, C#, Git, Nuget, SQL, Scrum, Html, Css, Javascript, Web Services Rest and Restfull, having worked on web, desktop, and mobile projects along academic and professional experience.",
-    "As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of \ndaily work, with people and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions."],
+    "I have experience by working in large projects at gas and energy industry for CSC clients, now DXC,",
+    "and more recently in financial solutions projects at Accurate software.",
+    "With a degree in Systems Analysis from Fatec(2016), and a degree in Music from the",
+    "State University of Londrina (2021). I believe that it is through collaborative technologies that",
+    "society can develop in order to optimize processes and develop new solutions, in a holistic way,",
+    "socially engaged and aligned with sustainable development.",
+    "I have experience in Java, Spring Framework, Maven, MVC, C#, Git, Nuget, SQL, Scrum, Html, Css, ",
+    "Javascript, Web Services Rest and Restfull, having worked on web, desktop, and mobile projects, ",
+    "along academic and professional experience.",
+    "As a teacher, I also bring the expertise of a career in which it is necessary to understand human,",
+    "development as an elementary part of \ndaily work, with people and knowledge as the raw material",
+    "of professional routine, essential softskills for teamwork and for people oriented solutions."],
   "Last jobs": {
     "Accurate": {
       "role": "Back end developer junior II",
       "hire date": "2021-09-29T00:00:00",
       "final date": "2022-02-04T18:00:00",
-      "description": "We wrote and maintained some microservices applications using the Spring universe to develop a financial solution for a worldwide major industry."
+      "description": ["We wrote and maintained some microservices applications using the Spring universe",
+        "to develop a financial solution for a worldwide major industry."]
     },
     "DXC": {
       "role": "Analista de sistemas junior",
       "hire date": "2015-10-14T15:00:00",
       "final date": "2017-01-06T18:00:00",
-      "description": "We wrote and maintained some applications using Java, Asp.Net and C# to develop a solution for large Brazilian gas and energy industries."
+      "description": ["We wrote and maintained some applications using Java, Asp.Net and C# to develop",
+      "a solution for large Brazilian gas and energy industries."]
     },
     "Agro-fauna": {
       "role": "Auxiliar de programação",
       "hire date": "2014-03-03T15:00:00",
       "final date": "2014-11-23T15:00:00",
-      "description": "We wrote and maintained some applications using Java desktop, Hibernate, JSF and Primefaces custom solution for a single client/sponsor"
+      "description": ["We wrote and maintained some applications using Java desktop, Hibernate, ",
+        "JSF and Primefaces custom solution for a single client/sponsor"]
     }
   },
-    "hard skills": {
-      "main languages": [
-        "Java",
-        "C#",
-        "Asp.net",
-        "SQL"
-      ],
-      "frameworks": [
-        "Spring boot",
-        "Six2Six Fixture Factory"
-      ],
-      "automation tools": [
-        "JUnit Jupter",
-        "JUnit 4",
-        "Lombok",
-        "Mockito",
-        "Docker"
-      ],
-      "control version tools": [
-        "Git",
-        "Nuget"
-      ],
-      "notations": [
-        "JSon",
-        "XML",
-        "Western music notation"
-      ],
-      "databases": [
-        "SQL SERVER",
-        "MySQL"
-      ],
-      "architectures": [
-        "Microservices",
-        "MVC",
-        "SOLID"
-      ],
-      "front-end basics": [
-        "HTML",
-        "HTTP",
-        "CSS",
-        "Javascript"
-      ],
-      "management": [
-        "Scrum",
-        "XP",
-        "Pomodoro",
-        "Gannt Diagram",
-        "Kanbam"
-      ]
-  },
-    "soft-skills": [
-      "versatility",
-      "good humor",
-      "teacher experience",
-      "collaborative",
-      "arts experienced",
-      "researcher",
-      "curious"
+  "hard skills": {
+    "main languages": [
+      "Java",
+      "C#",
+      "Asp.net",
+      "SQL"
     ],
-
+    "frameworks": [
+      "Spring boot",
+      "Six2Six Fixture Factory"
+    ],
+    "automation tools": [
+      "JUnit Jupter",
+      "JUnit 4",
+      "Lombok",
+      "Mockito",
+      "Docker"
+    ],
+    "control version tools": [
+      "Git",
+      "Nuget"
+    ],
+    "notations": [
+      "JSon",
+      "XML",
+      "Western music notation"
+    ],
+    "databases": [
+      "SQL SERVER",
+      "MySQL"
+    ],
+    "architectures": [
+      "Microservices",
+      "MVC",
+      "SOLID"
+    ],
+    "front-end basics": [
+      "HTML",
+      "HTTP",
+      "CSS",
+      "Javascript"
+    ],
+    "management": [
+      "Scrum",
+      "XP",
+      "Pomodoro",
+      "Gannt Diagram",
+      "Kanbam"
+    ]
+  },
+  "soft-skills": [
+    "versatility",
+    "good humor",
+    "teacher experience",
+    "collaborative",
+    "arts experienced",
+    "researcher",
+    "curious"
+  ],
   "other courses": {
     "Spring Data JPA-Repositórios, Consultas, Projeções e Specifications": {
       "institution": "Alura",
@@ -195,11 +203,14 @@
     }
   },
   "publications": {
-    "Proposta de ambiente virtual de ensino de música popular":{
+    "Proposta de ambiente virtual de ensino de música popular": {
       "description": "Trabalho de conclusão de curso que transa Música, educação e desenvolvimento com JMusic e java",
-      "event": "III WORKSHOP DE INICIAÇÃO CIENTÍFICA E MONOGRAFIAS - III Congresso de Tecnologia e Sistema de Informação (COTESI)",
+      "event": "III Congresso de Tecnologia e Sistema de Informação (COTESI)",
       "year": 2016,
-      "authors": ["Profº Dr. Djalma Domingos da Silva","Reinaldo Neves dos Santos"],
+      "authors": [
+        "Profº Dr. Djalma Domingos da Silva",
+        "Reinaldo Neves dos Santos"
+      ],
       "link": "https://www.academia.edu/26861835/Proposta_de_ambiente_virtual_de_ensino_de_m%C3%BAsica_popular"
     }
   }
