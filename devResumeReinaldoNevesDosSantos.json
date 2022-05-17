@@ -1,139 +1,128 @@
 {
-  "dev_name": "Reinaldo Neves dos Santos",
-  "nationality": "brazilian",
-  "city_of_birth": "Ribeirão Preto - SP",
-  "birth_date": "1992-06-09T12:52:00",
-  "civil_status": "single",
-  "address": {
+  "Dev's name": "Reinaldo Neves dos Santos",
+  "nationality": "Brazzilian",
+  "city of birth": "Ribeirão Preto - SP",
+  "birth date": "1992-06-09T12:52:00",
+  "civil status": "single",
+  "Address": {
     "street": "Servidão Vitor Manoel Ferreira",
     "district": "Ingleses do Rio Vermelho",
     "complement": "apt 02",
     "number": "85",
-    "zip_code": "88058-725",
+    "zip code": "88058-725",
     "city": "Florianópolis",
     "state": "SC",
     "country": "Brasil"
   },
-  "contact": {
+  "Contact": {
     "email": "reinaldo_neves@hotmail.com",
     "phone": "+554399638-3899",
     "whatsapp": "https://web.whatsapp.com/send?phone=5543996383899",
-    "linkedIn": "https://www.linkedin.com/in/reinaldonevess/",
-    "gitHub": "https://github.com/reinaldoneves"
+    "LinkedIn": "https://www.linkedin.com/in/reinaldonevess/",
+    "GitHub": "https://github.com/reinaldoneves"
   },
-  "courses": {
-    "first_course": {
-      "course_name": "Análise e Desenvolvimento de sistemas",
+  "Courses": {
+    "first course": {
+      "course name": "Análise e Desenvolvimento de sistemas",
       "college": "Fatec - RP",
-      "institution_full_name": "Faculdade de tecnologia de São José do Rio Preto",
-      "year_of_conclusion": "2016"
+      "institution full name": "Faculdade de tecnologia de São José do Rio Preto",
+      "year of conclusion": "2016"
     },
-    "second_course": {
-      "course_name": "Licenciatura em Música",
+    "second course": {
+      "course name": "Licenciatura em Música",
       "college": "UEL",
-      "institution_full_name": "Universidade Estadual de Londrina",
-      "year_of_conclusion": "2021"
+      "institution full name": "Universidade Estadual de Londrina",
+      "year of conclusion": "2021"
     }
   },
-  "about_me": [
-    "I like to read and write codes. Sometimes I deal with musical codes, and sometimes computer codes. I'm still trying to figure out wich one I love the most, but as a matter of fact, it is all code the same way.",
-    "My experience envolves development solutions in diferent plataforms and dimensions, most using Java, but also a little bit of C#.",
-    "I have experience by working in large projects at gas and energy industry for CSC clients, now DXC, and more recently in financial solutions projects at Accurate software.",
-    "I'm gradueted in System Analysis at Fatec(2016), and a degree in Music at State University of Londrina(2021). I really believe that it is only through collaborative thinking and open knowledges and technologies that society can truly evolve and inovate, in order to optimize processes and create new solutions in a holistic way, socially engaged and aligned with sustainable development.",
-    "I really would like to work with partners, clients, and people with the same values and purpose.",
-    "As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microservices archtecture, C#, Git, Nuget, SQL, Scrum, Html, CSS, basic Javascript, Web Services, Rest, and API building, having worked on web, desktop, and mobile projects along my academic and professional journey.",
-    "As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions."
-  ],
-  "last_jobs": {
+  "about me": "I like to read and write codes. Sometimes I deal with musical codes, and sometimes computer codes. I'm still trying to figure out wich one I love the most, but as a matter of fact, it is all code the same way. My experience envolves development solutions in diferent plataforms and dimensions, mostly using Java, but also a little bit of C#. I have experience by working in large projects at gas and energy industry for CSC clients, now DXC, and more recently in financial solutions projects at Accurate software. I'm gradueted in System Analysis at Fatec(2016), and a degree in Music at State University of Londrina(2021). I really believe that it is only through collaborative thinking and open knowledges and technologies that society can truly evolve and inovate, in order to optimize processes and create new solutions in a holistic way, socially engaged and aligned with sustainable development. I really would like to work with partners, clients, and people with the same values and purpose. As hardskills, I have experience in Java Spring Framework, Maven, MVC, Microservices archtecture, C#, Git, Nuget, SQL, Scrum, Html, CSS, basic Javascript, Web Services, Rest, and API building, having worked on web, desktop, and mobile projects along my academic and professional journey. As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions.",
+  "Last jobs": {
     "Accurate": {
       "role": "Back end developer junior II",
-      "hire_date": "2021-09-29T00:00:00",
-      "final_date": "2022-02-04T18:00:00",
-      "description": [
-        "We wrote and maintained some microservices applications using the Spring universe",
-        "to develop a financial solution for a worldwide major industry."
-      ]
+      "hire date": "2021-09-29T00:00:00",
+      "final date": "2022-02-04T18:00:00",
+      "description": "We wrote and maintained some microservices applications using the Spring universe to develop a financial solution for a worldwide major industry."
     },
     "DXC": {
       "role": "Analista de sistemas junior",
-      "hire_date": "2015-10-14T15:00:00",
-      "final_date": "2017-01-06T18:00:00",
-      "description": [
-        "We wrote and maintained some applications using Java, Asp.Net and C# to develop",
-        "a solution for large Brazilian gas and energy industries."
-      ]
+      "hire date": "2015-10-14T15:00:00",
+      "final date": "2017-01-06T18:00:00",
+      "description": "We wrote and maintained some applications using Java, Asp.Net and C# to develop a solution for large Brazilian gas and energy industries."
     },
     "Agro-fauna": {
       "role": "Auxiliar de programação",
-      "hire_date": "2014-03-03T15:00:00",
-      "final_date": "2014-11-23T15:00:00",
-      "description": [
-        "We wrote and maintained some applications using Java desktop, Hibernate, ",
-        "JSF and Primefaces custom solution for a single client/sponsor"
-      ]
+      "hire date": "2014-03-03T15:00:00",
+      "final date": "2014-11-23T15:00:00",
+      "description": "We maintained all the company machines (servers and user computers) as well as the company applications using Java desktop, Hibernate, JSF and Primefaces custom solution for a single client/sponsor."
     }
   },
-  "hard_skills": {
-    "main_languages": [
-      "Java",
-      "C#",
-      "SQL"
-    ],
-    "frameworks": [
-      "Spring",
-      "Spring boot",
-      "Six2Six Fixture Factory",
-      "Asp.net"
-    ],
-    "automation_tools": [
-      "Junit",
-      "Lombok",
-      "Mockito",
-      "Docker"
-    ],
-    "control_version_tools": [
-      "Git",
-      "Nuget"
-    ],
-    "notations": [
-      "JSon",
-      "XML",
-      "Western music notation"
-    ],
-    "databases": [
-      "SQL SERVER",
-      "PostgreSql",
-      "MySQL"
-    ],
-    "architectures": [
-      "Microservices",
-      "MVC",
-      "SOLID"
-    ],
-    "front_end_basics": [
-      "HTML",
-      "HTTP",
-      "CSS",
-      "Javascript"
-    ],
-    "management": [
-      "Scrum",
-      "XP",
-      "Pomodoro",
-      "Gannt Diagram",
-      "Kanban"
-    ]
+    "hard skills": {
+      "main languages": [
+        "Java",
+        "C#",
+        "Asp.net",
+        "SQL"
+      ],
+      "frameworks": [
+        "Spring",
+ 	      "Spring Boot",
+	      "Spring JPA",
+	      "Spring MVC",
+	      "ModelMapper",
+        "Six2Six Fixture Factory",
+        "Asp.net",
+        "Hibernate"
+      ],
+      "automation tools": [
+        "JUnit Jupter",
+        "JUnit 4",
+        "Lombok",
+        "Mockito",
+        "Docker"
+      ],
+      "control version tools": [
+        "Git",
+        "Nuget"
+      ],
+      "notations": [
+        "JSon",
+        "XML",
+        "Western music notation"
+      ],
+      "databases": [
+        "SQL SERVER",
+        "MySQL"
+      ],
+      "architectures": [
+        "Microservices",
+        "MVC",
+        "SOLID"
+      ],
+      "front-end basics": [
+        "HTML",
+        "HTTP",
+        "CSS",
+        "Javascript"
+      ],
+      "management": [
+        "Scrum",
+        "XP",
+        "Pomodoro",
+        "Gannt Diagram",
+        "Kanban"
+      ]
   },
-  "soft_skills": [
-    "versatility",
-    "good humor",
-    "teacher experience",
-    "collaborative",
-    "arts experienced",
-    "researcher",
-    "curious"
-  ],
-  "other_courses": {
+    "soft-skills": [
+      "versatility",
+      "good humor",
+      "teacher experience",
+      "collaborative",
+      "arts experienced",
+      "researcher",
+      "curious"
+    ],
+
+  "other courses": {
     "Spring Data JPA-Repositórios, Consultas, Projeções e Specifications": {
       "institution": "Alura",
       "year": "2021",
@@ -198,21 +187,17 @@
       "workload": "3"
     },
     "OCJA Certification course": {
-      "institution": "Kess cursos e treinamentos",
-      "instructor": "Ryan Padilha",
+      "Institution": "Kess cursos e treinamentos",
       "year": "2012",
       "workload": "200"
     }
   },
   "publications": {
-    "Proposta de ambiente virtual de ensino de música popular": {
+    "Proposta de ambiente virtual de ensino de música popular":{
       "description": "Trabalho de conclusão de curso que transa Música, educação e desenvolvimento com JMusic e java",
-      "event": "III Congresso de Tecnologia e Sistema de Informação (COTESI)",
-      "year": "2016",
-      "authors": [
-        "Profº Dr. Djalma Domingos da Silva",
-        "Reinaldo Neves dos Santos"
-      ],
+      "event": "III WORKSHOP DE INICIAÇÃO CIENTÍFICA E MONOGRAFIAS - III Congresso de Tecnologia e Sistema de Informação (COTESI)",
+      "year": 2016,
+      "authors": ["Profº Dr. Djalma Domingos da Silva","Reinaldo Neves dos Santos"],
       "link": "https://www.academia.edu/26861835/Proposta_de_ambiente_virtual_de_ensino_de_m%C3%BAsica_popular"
     }
   }
