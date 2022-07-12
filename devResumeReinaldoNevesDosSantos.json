@@ -1,3 +1,4 @@
+
 {
   "Dev's name": "Reinaldo Neves dos Santos",
   "nationality": "Brazzilian",
@@ -46,20 +47,26 @@
 	As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, 
 	with people and knowledge as the raw material of professional routine, essential softskills for teamwork and for people oriented solutions.",
   "Last jobs": {
+    "JTech/Veolia":{
+  	  "role": "developer",
+      "hire date": "2022-07-07T00:00:00",
+      "final date": null,
+      "description": "The company sustain products for a major french industry of water management, waste management and circular economy. I tried to help with my Java experience in this ecological challange and transformation."	
+  	},
     "Accurate": {
-      "role": "Back end developer junior II",
+      "role": "back end developer",
       "hire date": "2021-09-29T00:00:00",
       "final date": "2022-02-04T18:00:00",
       "description": "We wrote and maintained some microservices applications using the Spring universe to develop a financial solution for a worldwide major industry."
     },
     "DXC": {
-      "role": "Analista de sistemas junior",
+      "role": "analista de sistemas junior",
       "hire date": "2015-10-14T15:00:00",
       "final date": "2017-01-06T18:00:00",
       "description": "We wrote and maintained some applications using Java, Asp.Net and C# to develop a solution for large Brazilian gas and energy industries."
     },
     "Agro-fauna": {
-      "role": "Auxiliar de programação",
+      "role": "programador web",
       "hire date": "2014-03-03T15:00:00",
       "final date": "2014-11-23T15:00:00",
       "description": "We maintained all the company machines (servers and user computers) as well as the company applications using Java desktop, Hibernate, JSF and Primefaces custom solution for a single client/sponsor."
