@@ -22,6 +22,12 @@
     "gitHub": "https://github.com/reinaldoneves"
   },
   "courses": [
+    {
+      "course_name": "Mestrado PPEDU",
+      "college": "UEL-CECA",
+      "institution_full_name": "Universidade Estadual de Londrina",
+      "year_of_conclusion": "2026"  
+    },
     { 
       "course_name": "Análise e Desenvolvimento de sistemas",
       "college": "Fatec - RP",
