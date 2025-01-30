@@ -23,56 +23,37 @@
   },
   "courses": [
     {
-    "course_name": "Mestrado PPEDU",
-    "college": "UEL-CECA",
-    "institution_full_name": "Universidade Estadual de Londrina",
-    "year_of_conclusion": "2026"
+      "course_name": "Mestrado PPEDU",
+      "college": "UEL-CECA",
+      "institution_full_name": "Universidade Estadual de Londrina",
+      "year_of_conclusion": "2026"
     },
     {
-    "course_name": "Análise e Desenvolvimento de sistemas",
-    "college": "Fatec - RP",
-    "institution_full_name": "Faculdade de tecnologia de São José do Rio Preto",
-    "year_of_conclusion": "2016"
+      "course_name": "Análise e Desenvolvimento de sistemas",
+      "college": "Fatec - RP",
+      "institution_full_name": "Faculdade de tecnologia de São José do Rio Preto",
+      "year_of_conclusion": "2016"
     },
     {
-    "course_name": "Licenciatura em Música",
-    "college": "UEL",
-    "institution_full_name": "Universidade Estadual de Londrina",
-    "year_of_conclusion": "2021"
+      "course_name": "Licenciatura em Música",
+      "college": "UEL",
+      "institution_full_name": "Universidade Estadual de Londrina",
+      "year_of_conclusion": "2021"
     }
   ],
-  "about_me": ["I've been programming in Java since 2012 because I wanted to make cell
-  phone games. I never imagined that it would become one of the most used languages in
-  the world.I have experience working on large projects for English, American, Brazil
-  ian and French companies with more than 20,000 employees across several countries,
-  with ecosystems for robust systems with thousands of accesses per second. I have a
-  degree in Systems Analysis from Fatec (2016), and a degree in Music from the State
-  University of Londrina (2021) and a ongoing master's degree in education. I truly
-  believe that only through collaborative thinking and open knowledge and technologies
-  can society truly evolve and innovate, in order to optimize processes and create new
-  solutions in a holistic, socially engaged way and aligned with sustainable develop
-  ment and I would really like to work with partners, customers and people with the
-  same values and purposes.As hardskills, I have experience in Java Spring Framework,
-  Maven, MVC, microservices architecture, C#, Git, SQL, NoSql, MongoDB, Spring Reac
-  tive, Spring Security, OAuth2, Swagger, Scrum, Web Services, Rest and building APIs,
-  having worked on web, desktop and mobile projects throughout my academic and profess
-  sional journey. As a teacher, I also bring the expertise of a career in which it is
-  necessary to understand human development as an elementary part of daily work, with
-  people and knowledge as the raw material of the professional routine, essential
-  softskills for teamwork and oriented solutions for people."],
+  "about_me": [
+    "I've been programming in Java since 2012 because I wanted to make cell phone games. I never imagined that it would become one of the most used languages in the world.I have experience working on large projects for English, American, Brazilian and French companies with more than 20,000 employees across several countries, with ecosystems for robust systems with thousands of accesses per second. I have a degree in Systems Analysis from Fatec (2016), and a degree in Music from the State University of Londrina (2021) and a ongoing master's degree in education. I truly believe that only through collaborative thinking and open knowledge and technologies can society truly evolve and innovate, in order to optimize processes and create new  solutions in a holistic, socially engaged way and aligned with sustainable development and I would really like to work with partners, customers and people with the  same values and purposes.As hardskills, I have experience in Java Spring Framework,  Maven, MVC, microservices architecture, C#, Git, SQL, NoSql, MongoDB, Spring Reactive, Spring Security, OAuth2, Swagger, Scrum, Web Services, Rest and building APIs,  having worked on web, desktop and mobile projects throughout my academic and professsional journey. As a teacher, I also bring the expertise of a career in which it is necessary to understand human development as an elementary part of daily work, with people and knowledge as the raw material of the professional routine, essential softskills for teamwork and oriented solutions for people."
+  ],
   "last_jobs": [
     {
-      "company":"Solutis","role": "software enginner",
-      "hire_date":"2022-10-10T09:00:00",
+      "company": "Solutis",
+      "role": "software enginner",
+      "hire_date": "2022-10-10T09:00:00",
       "final_date": null,
       "location": "remote",
-      "description": ["Back end developer working with microservices archtecture solutions
-      with Spring, Spring Security, OAuth2, Spring Webflux, BitBucket, Sonar, MongoDb,
-      DoccumentDB, Veracode, AWS, Canary deployment, Java 11-17, Cucumber, JUnit and other
-      frameworks @ Serasa Experian. Our product was an IDP and account manager with
-      millions of hits per minute and was awarded the highest audit scores. Our clients,
-      in addition to Brazil, were Colombia, India, among several other countries in Latin
-      America and other regions of the world."]
+      "description": [
+        "Back end developer working with microservices archtecture solutions  with Spring, Spring Security, OAuth2, Spring Webflux, BitBucket, Sonar, MongoDb, DoccumentDB, Veracode, AWS, Canary deployment, Java 11-17, Cucumber, JUnit and other frameworks @ Serasa Experian. Our product was an IDP and account manager with millions of hits per minute and was awarded the highest audit scores. Our clients, in addition to Brazil, were Colombia, India, among several other countries in Latin America and other regions of the world."
+      ]
     },
     {
       "company": "JTech-Veolia",
@@ -80,9 +61,9 @@
       "hire_date": "2022-07-07T09:00:00",
       "final_date": "2022-07-08T09:00:00",
       "location": "São José - SC",
-      "description": [" The company sustain products for a major french industry of water
-      management, waste management and circular economy. I tried to help with my Java ex
-      perience in this ecological challange and transformation. "]
+      "description": [
+        " The company sustain products for a major french industry of water management, waste management and circular economy. I tried to help with my Java ex perience in this ecological challange and transformation. "
+      ]
     },
     {
       "company": "Accurate",
@@ -90,8 +71,9 @@
       "hire_date": "2021-09-29T00:00:00",
       "final_date": "2022-02-04T18:00:00",
       "location": "remote",
-      "description": ["We wrote and maintained some microservices applications using the
-      Spring universe to develop a financial solution for a worldwide major industry."]
+      "description": [
+        "We wrote and maintained some microservices applications using the Spring universe to develop a financial solution for a worldwide major industry."
+      ]
     },
     {
       "company": "CSC-DXC",
@@ -99,142 +81,210 @@
       "hire_date": "2015-10-14T15:00:00",
       "final_date": "2017-01-06T18:00:00",
       "location": "São José do Rio Preto - SP",
-      "description": ["We wrote and maintained some applications using Java, Asp.Net and
-      C# to develop a solution for large Brazilian gas and energy industries."]
+      "description": [
+        "We wrote and maintained some applications using Java, Asp.Net and C# to develop a solution for large Brazilian gas and energy industries."
+      ]
     },
     {
-      "company":"Agro-fauna",
+      "company": "Agro-fauna",
       "role": "programador web",
       "hire_date": "2013-09-01T08:00:00",
       "final_date": "2014-11-23T15:00:00",
       "location": "São José do Rio Preto-SP",
-      "description": ["We maintained all the company machines (servers and user computers)
-      as well as the company applications using Java desktop, Hibernate, JSF and
-      Primefaces custom solution for a single client/sponsor."]
+      "description": [
+        "We maintained all the company machines (servers and user computers) as well as the company applications using Java desktop, Hibernate, JSF and Primefaces custom solution for a single client/sponsor."
+      ]
     }
   ],
   "hard_skills": {
-    "main_languages": ["Java","C#","SQL"],
-    "frameworks": ["Spring","Spring Boot","Spring Webflux","Spring JPA","Spring MVC","Junit","Mockito"],
-    "other_tools": ["Cucumber","Lombok","Docker","Jenkins","AWS ECS","Yaml","Swagger","Maven"],
-    "control_version_tools": ["Bit bucket","Git","Nuget"],
-    "observabilty_tools": ["Dynatrace","Elastic Search"],
-    "notations": ["JSon","XML"],
-    "databases": ["MongDB","Atlas","SQL SERVER","PostgreSql","MySQL"],
-    "architectures": ["Microservices","MVC","SOLID","Monolithic"],
-    "front_end": ["HTML","HTTP","CSS","Javascript","Wordpress","Elementor"],
-    "management": ["Scrum","XP","Pomodoro","Gannt Diagram","Kanban"]},
-    "soft_skills": ["curious","good humor","education experienced","collaborative",
-    "arts experienced","researcher","versatility"],
-    "other_courses":[
-      {
-      "name":"Amazon EKS: Gerenciando Aplicações conteinerizadas com Kubernets",
+    "main_languages": [
+      "Java",
+      "C#",
+      "SQL"
+    ],
+    "frameworks": [
+      "Spring",
+      "Spring Boot",
+      "Spring Webflux",
+      "Spring JPA",
+      "Spring MVC",
+      "Junit",
+      "Mockito"
+    ],
+    "other_tools": [
+      "Cucumber",
+      "Lombok",
+      "Docker",
+      "Jenkins",
+      "AWS ECS",
+      "Yaml",
+      "Swagger",
+      "Maven"
+    ],
+    "control_version_tools": [
+      "Bit bucket",
+      "Git",
+      "Nuget"
+    ],
+    "observabilty_tools": [
+      "Dynatrace",
+      "Elastic Search"
+    ],
+    "notations": [
+      "JSon",
+      "XML"
+    ],
+    "databases": [
+      "MongDB",
+      "Atlas",
+      "SQL SERVER",
+      "PostgreSql",
+      "MySQL"
+    ],
+    "architectures": [
+      "Microservices",
+      "MVC",
+      "SOLID",
+      "Monolithic"
+    ],
+    "front_end": [
+      "HTML",
+      "HTTP",
+      "CSS",
+      "Javascript",
+      "Wordpress",
+      "Elementor"
+    ],
+    "management": [
+      "Scrum",
+      "XP",
+      "Pomodoro",
+      "Gannt Diagram",
+      "Kanban"
+    ]
+  },
+  "soft_skills": [
+    "curious",
+    "good humor",
+    "education experienced",
+    "collaborative",
+    "arts experienced",
+    "researcher",
+    "versatility"
+  ],
+  "other_courses": [
+    {
+      "name": "Amazon EKS: Gerenciando Aplicações conteinerizadas com Kubernets",
       "institution": "Alura",
       "year": "2023",
       "workload": "6"
-      },
-      {
-      "name":"Microserviços na prática: Mensageria com RabbitMQ",
+    },
+    {
+      "name": "Microserviços na prática: Mensageria com RabbitMQ",
       "institution": "Alura",
       "year": "2023",
       "workload": "10"
-      },
-      {
-      "name":"Google Ads: Criando uma campanha",
+    },
+    {
+      "name": "Google Ads: Criando uma campanha",
       "institution": "Alura",
       "year": "2023",
       "workload": "10"
-      },
-      {
-      "name":"Spring Data JPA-Repositórios, Consultas, Projeções e Specifications",
+    },
+    {
+      "name": "Spring Data JPA-Repositórios, Consultas, Projeções e Specifications",
       "institution": "Alura",
       "year": "2021",
       "workload": "10"
-      },
-      {
+    },
+    {
       "name": "Jenkins-Integração contínua",
       "institution": "Alura",
       "year": "2021",
       "workload": "8"
-      },
-      {
-      "name":"Spring boot e teste-Profile, testes e deploy",
+    },
+    {
+      "name": "Spring boot e teste-Profile, testes e deploy",
       "institution": "Alura",
       "year": "2021",
       "workload": "8"
-      },
-      {
-      "name":"Mocks em java-Conhecendo o Mockito",
+    },
+    {
+      "name": "Mocks em java-Conhecendo o Mockito",
       "institution": "Alura",
       "year": "2021",
       "workload": "8"
-      },
-      {
-      "name":"TDD e Java - Testes automatizados com JUnit",
+    },
+    {
+      "name": "TDD e Java - Testes automatizados com JUnit",
       "institution": "Alura",
       "year": "2021",
       "workload": "8"
-      },
-      {
-      "name":"Spring Boot-Agilidade no desenvolvimento Java com Spring",
+    },
+    {
+      "name": "Spring Boot-Agilidade no desenvolvimento Java com Spring",
       "institution": "Alura",
       "year": "2021",
       "workload": "10"
-      },
-      {
-      "name":"Dot Net MVC Framework",
+    },
+    {
+      "name": "Dot Net MVC Framework",
       "institution": "CSC/Fatec",
       "year": "2016",
       "workload": "20"
-      },
-      {"name":"Sharepoint Microsoft",
+    },
+    {
+      "name": "Sharepoint Microsoft",
       "institution": "CSC/Fatec",
       "year": "2016",
       "workload": "40"
-      },
-      {
-      "name":"Java Web (JSF, Spring, Hibernate, Maven)",
+    },
+    {
+      "name": "Java Web (JSF, Spring, Hibernate, Maven)",
       "institution": "CSC/Fatec",
       "year": "2015",
       "workload": "40"
-      },
-      {
-      "name":"Windows Azure",
+    },
+    {
+      "name": "Windows Azure",
       "institution": "Fatec",
       "instructor": "Geovani Ferreira Gonçalves",
       "year": "2013",
       "workload": "3"
-      },
-      {
-      "name":"Desenvolvimento Android",
+    },
+    {
+      "name": "Desenvolvimento Android",
       "institution": "Fatec",
       "instructor": "Djalma Domingos da Silva",
       "year": "2013",
       "workload": "6"
-      },
-      {
-      "name":"Introdução a linguagem PL/SQL(Oracle)",
+    },
+    {
+      "name": "Introdução a linguagem PL/SQL(Oracle)",
       "institution": "Fatec",
       "instructor": "Sérgio Ricardo Borges Junior",
       "year": "2013",
       "workload": "3"
-      },
-      {
-      "name":"OCJA Certification course",
+    },
+    {
+      "name": "OCJA Certification course",
       "institution": "Kess cursos e treinamentos",
       "instructor": "Ryan Padilha",
       "year": "2012",
       "workload": "200"
-      }
+    }
   ],
   "scientific_publications": [
     {
-    "name":"Proposta de ambiente virtual de ensino de música popular",
-    "description": "Trabalho de conclusão de curso que transa Música, educação e desenvolvimento com JMusic e Java",
-    "event": "III Congresso de Tecnologia e Sistema de Informação (COTESI)",
-    "year": "2016",
-    "authors": ["DA SILVA, Djalma Domingos","SANTOS, Reinaldo Neves dos"],
-    "link": "https://www.academia.edu/26861835/Proposta_de_ambiente_virtual_de_ensino_de_m%C3%BAsica_popular"
+      "name": "Proposta de ambiente virtual de ensino de música popular",
+      "description": "Trabalho de conclusão de curso que transa Música, educação e desenvolvimento com JMusic e Java",
+      "event": "III Congresso de Tecnologia e Sistema de Informação (COTESI)",
+      "year": "2016",
+      "authors": [
+        "DA SILVA, Djalma Domingos",
+        "SANTOS, Reinaldo Neves dos"
+      ],
+      "link": "https://www.academia.edu/26861835/Proposta_de_ambiente_virtual_de_ensino_de_m%C3%BAsica_popular"
     }
   ]
 }
